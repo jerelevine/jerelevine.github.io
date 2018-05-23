@@ -1,11 +1,9 @@
 .background {
   /*background: center no-repeat url(background.png);*/
-  background-color: rgb(255, 255, 0);
 }
 
 .logo {
-  /*background-image: url(logo.png);*/
-  background-color: rgb(255, 255, 0);
+  background-image: url(logo.png);
 }
 
 .progressBar {
