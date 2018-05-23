@@ -1,1 +1,24 @@
-Hello World
+.background {
+  /*background: center no-repeat url(background.png);*/
+  background-color: rgb(255, 255, 0);
+}
+
+.logo {
+  /*background-image: url(logo.png);*/
+  background-color: rgb(255, 255, 0);
+}
+
+.progressBar {
+  background-color: rgb(255, 255, 0);
+}
+
+.splash {
+  /*background-image: url(splash.png);*/
+  background-color: rgb(255, 255, 0);
+}
+
+.watermark {
+  /*background-image: url(watermark.png);
+  background-size: 57px 57px;*/
+  background-color: rgb(255, 255, 0);
+}
