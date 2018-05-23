@@ -1,10 +1,10 @@
 .background {
-  /*background: center no-repeat url(background.png);*/
+  /* Nothing for now */
 }
 
 .logo {
   background-image: url(logo.png);
-  background-size: 20% auto;
+  background-size: auto 15%;
 }
 
 .progressBar {
@@ -18,5 +18,5 @@
 
 .watermark {
   background-image: url(watermark.png);
-  background-size: 10% auto;
+  background-size: auto 8%;
 }
