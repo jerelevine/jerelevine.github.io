@@ -4,6 +4,7 @@
 
 .logo {
   background-image: url(logo.png);
+  background-size: 10% 10%;
 }
 
 .progressBar {
